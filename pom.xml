@@ -27,7 +27,7 @@
         
         <!-- https://mvnrepository.com/artifact/javax.servlet/servlet-api -->
 <dependency>
-    <groupId>javax.servlet</groupId>
+    <groupId>jakarta.servlet</groupId>
     <artifactId>servlet-api</artifactId>
     <version>2.5</version>
     <scope>provided</scope>
@@ -39,7 +39,7 @@
         
         <!-- https://mvnrepository.com/artifact/javax.servlet/jstl -->
 <dependency>
-    <groupId>javax.servlet</groupId>
+    <groupId>jakarta.servlet</groupId>
     <artifactId>jstl</artifactId>
     <version>1.2</version>
 </dependency>
@@ -82,7 +82,7 @@
 </dependency>
 
        <dependency>
-            <groupId>javax</groupId>
+            <groupId>jakarta</groupId>
             <artifactId>javaee-web-api</artifactId>
             <version>7.0</version>
             <scope>provided</scope>
